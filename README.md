@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Spoorthy-K-R
+- 👋 Hi, I’m Spoorthy K R
 - 👀 I’m interested in **Machine Learning and Data Science**
 - 🌱 I’m currently learning **System Design**
 - 📫 How to reach me [Spoorthy K R](https://in.linkedin.com/in/spoorthy-k-r-1801)
