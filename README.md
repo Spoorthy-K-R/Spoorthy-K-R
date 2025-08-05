@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Spoorthy K R</h1>
-<h3 align="center">A passionate Python developer</h3>
+<h1 align="center">Hi 👋, I'm Spoorthy</h1>
+<h3 align="center">A passionate Software developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spoorthy-k-r&label=Profile%20views&color=0e75b6&style=flat" alt="spoorthy-k-r" /> </p>
 
-- 🌱 I’m currently exploring **Data Science, Machine Learning and Deep Learning**
+- 🌱 I’m currently a CS Grad at Texas A&M University, exploring the fields of **Artificial Intelligence, Data Science and Machine Learning**
 
 - 💬 Ask me about **Machine Learning and Image Processing**
 
 - 📫 How to reach me **spoorthykr1801@gmail.com**
-
-- ⚡ Fun fact **I'm exploring Deep Learning Deeper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
