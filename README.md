@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spoorthy-k-r&label=Profile%20views&color=0e75b6&style=flat" alt="spoorthy-k-r" /> </p>
 
-- 🌱 I’m currently a CS Grad at Texas A&M University, exploring the fields of **Artificial Intelligence, Data Science and Machine Learning**
+- 🌱 I’m currently a CS Grad at Texas A&M University, exploring the fields of **Artificial Intelligence, Natural Language Processing and Machine Learning**
 
 - 💬 Ask me about **Machine Learning and Image Processing**
 
